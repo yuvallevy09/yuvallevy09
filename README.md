@@ -4,7 +4,7 @@
 
 💡 I’m passionate about building impactful products that improve people’s day-to-day lives by combining creativity, problem-solving, and cutting-edge technology.  
 
-### 🚀 Current Projects  
+### 🚀 Upcoming Projects  
 
 - **AAC Communication Accelerator**  
   Building an application that supports **Augmentative and Alternative Communication (AAC)** device users by making smarter, personalized word and phrase suggestions using **LLMs** and **SLMs**.  
