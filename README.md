@@ -19,5 +19,5 @@
 
 I’m currently seeking opportunities to contribute as a developer in the industry, where I can grow my skills and create products with meaningful impact.  
 
-- 📧 Email: yuvallevy09@gmail.com 
-- 💼 [LinkedIn](www.linkedin.com/in/yuval-levy-72a351292)  
+- Email: **yuvallevy09@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/yuval-levy-72a351292/**
