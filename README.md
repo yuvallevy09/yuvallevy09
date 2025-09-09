@@ -14,3 +14,10 @@
   - Integrates with **Strava API** and health data  
   - Adapts to training philosophies (e.g., **Norwegian Method**)  
   - Provides real-time insights and personalized recommendations  
+
+## 📫 Let’s Connect  
+
+I’m currently seeking opportunities to contribute as a developer in the industry, where I can grow my skills and create products with meaningful impact.  
+
+- 📧 Email: yuvallevy09@gmail.com 
+- 💼 [LinkedIn](www.linkedin.com/in/yuval-levy-72a351292)  
