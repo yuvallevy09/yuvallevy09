@@ -4,9 +4,6 @@
 
 💡 I’m passionate about building impactful products that improve people’s day-to-day lives by combining creativity, problem-solving, and cutting-edge technology.  
 
-
-### 📫 Let’s Connect  
-
 I’m currently seeking opportunities to contribute as a developer in the industry, where I can grow my skills and create products with meaningful impact.  
 
 - 📧 Email: yuvallevy09@gmail.com
